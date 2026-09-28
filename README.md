@@ -1,12 +1,12 @@
 # Lucid Reader
 
-Lucid Reader 是一个面向 [NetNewsWire](https://netnewswire.com/) 的简洁阅读主题。
+Lucid Reader is a clean reading theme for [NetNewsWire](https://netnewswire.com/).
 
-## 字体
+## Fonts
 
-正文优先使用 [Atkinson Hyperlegible Next](https://fonts.google.com/specimen/Atkinson+Hyperlegible+Next)。
-主题不会附带或下载字体；未安装时会依次回退到 macOS 系统字体、`PingFang SC` 等常见无衬线字体。
+Body text prioritizes [Atkinson Hyperlegible Next](https://fonts.google.com/specimen/Atkinson+Hyperlegible+Next).
+The theme does not bundle or download fonts. If the font is not installed, it falls back to macOS system fonts, `PingFang SC`, and other common sans-serif fonts.
 
-## 许可
+## License
 
-本项目基于 [MIT License](LICENSE) 发布。
+This project is released under the [MIT License](LICENSE).
