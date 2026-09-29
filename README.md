@@ -2,6 +2,8 @@
 
 Lucid Reader is a clean reading theme for [NetNewsWire](https://netnewswire.com/).
 
+![Lucid Reader theme preview](screenshots/lucid-reader-preview.png)
+
 ## Fonts
 
 Body text prioritizes [Atkinson Hyperlegible Next](https://fonts.google.com/specimen/Atkinson+Hyperlegible+Next).
